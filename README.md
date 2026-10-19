@@ -12,12 +12,12 @@
 
 | # | Notebook | Library / Topic | What you'll learn |
 |---|----------|-----------------|-------------------|
-| 00 | [`00_3rd_Party_Libraries.ipynb`](./00_3rd_Party_Libraries.ipynb) | 🧭 Overview & setup | Landscape of key libraries (`pytz`, `dateutil`, `requests`, `numpy`, `pandas`, `matplotlib`), `pip install`, and virtual environments (Linux vs Windows) |
-| 01 | [`01_The_pytz_Library.ipynb`](./01_The pytz Library.ipynb) | 🌍 `pytz` | Named time zones via the IANA/Olson database, DST handling, `localize()` vs `astimezone()`, `fromutc()` |
-| 02 | [`02_The_dateutil_Library.ipynb`](./02_The dateutil Library.ipynb) | 🧠 `dateutil` | Format-free date parsing with `parser.parse`, `dayfirst` ambiguity, fuzzy parsing, `ParserError` handling |
-| 03 | [`03_JSON_Data.ipynb`](./03_JSON Data.ipynb) | 🧾 `json` | JSON structure, serialization (`dumps`) and deserialization (`loads`), Python ↔ JSON type mapping, non-serializable types |
-| 04 | [`04_REST_APIs.ipynb`](./04_REST APIs.ipynb) | 🔌 REST APIs | HTTP anatomy (URL, verbs, query args), GET/POST, authentication, data formats, status codes, hands-on with the Finnhub Stock API |
-| 05 | [`05_The_requests_Library.ipynb`](./05_The requests Library.ipynb) | 🌐 `requests` | HTTP for Humans: `get`/`post`/`put`, `params`, `json`, `headers`, and the `Response` object (`status_code`, `reason`, `text`, `json`, `headers`, `cookies`) |
+| 00 | [`00_3rd_Party_Libraries.ipynb`](https://github.com/Shiva-teja-chary-andhoju/Python_3rd_Party_Libraries/blob/main/00_3rd_Party_Libraries.ipynb) | 🧭 Overview & setup | Landscape of key libraries (`pytz`, `dateutil`, `requests`, `numpy`, `pandas`, `matplotlib`), `pip install`, and virtual environments (Linux vs Windows) |
+| 01 | [`01_The_pytz_Library.ipynb`](https://github.com/Shiva-teja-chary-andhoju/Python_3rd_Party_Libraries/blob/main/01_The%20pytz%20Library.ipynb) | 🌍 `pytz` | Named time zones via the IANA/Olson database, DST handling, `localize()` vs `astimezone()`, `fromutc()` |
+| 02 | [`02_The_dateutil_Library.ipynb`](https://github.com/Shiva-teja-chary-andhoju/Python_3rd_Party_Libraries/blob/main/02_The%20dateutil%20Library.ipynb) | 🧠 `dateutil` | Format-free date parsing with `parser.parse`, `dayfirst` ambiguity, fuzzy parsing, `ParserError` handling |
+| 03 | [`03_JSON_Data.ipynb`](https://github.com/Shiva-teja-chary-andhoju/Python_3rd_Party_Libraries/blob/main/03_JSON%20Data.ipynb) | 🧾 `json` | JSON structure, serialization (`dumps`) and deserialization (`loads`), Python ↔ JSON type mapping, non-serializable types |
+| 04 | [`04_REST_APIs.ipynb`](https://github.com/Shiva-teja-chary-andhoju/Python_3rd_Party_Libraries/blob/main/04_REST%20APIs.ipynb) | 🔌 REST APIs | HTTP anatomy (URL, verbs, query args), GET/POST, authentication, data formats, status codes, hands-on with the Finnhub Stock API |
+| 05 | [`05_The_requests_Library.ipynb`](https://github.com/Shiva-teja-chary-andhoju/Python_3rd_Party_Libraries/blob/main/04_REST%20APIs.ipynb) | 🌐 `requests` | HTTP for Humans: `get`/`post`/`put`, `params`, `json`, `headers`, and the `Response` object (`status_code`, `reason`, `text`, `json`, `headers`, `cookies`) |
 
 ---
 
